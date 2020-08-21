@@ -85,7 +85,7 @@
 | :method                   | GET                                                                                                                          |
 | :path                     | /api/v2/pokemon/ditto                                                                                                        |
 | :scheme                   | https                                                                                                                        |
-| accept                    | text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,_/_;q=0.8,application/signed-exchange;v=b3;q=0.9 |
+| accept                    | text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,_/_;q=0.8 |
 | accept-encoding           | gzip, deflate, br                                                                                                            |
 | accept-language           | en-US,en;q=0.9,tr;q=0.8                                                                                                      |
 | authorization             | Basic dHJhZWZpazpBYmMxmowl                                                                                                   |
@@ -97,7 +97,7 @@
 | sec-fetch-site            | none                                                                                                                         |
 | sec-fetch-user            | ?1                                                                                                                           |
 | upgrade-insecure-requests | 1                                                                                                                            |
-| user-agent                | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36    |
+| user-agent                | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) ...    |
 
 ## 3.3 - Response Headers
 
