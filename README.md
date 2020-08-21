@@ -85,7 +85,7 @@
 | :method                   | GET                                                                                                                          |
 | :path                     | /api/v2/pokemon/ditto                                                                                                        |
 | :scheme                   | https                                                                                                                        |
-| accept                    | text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,_/_;q=0.8 |
+| accept                    | text/html,application/xhtml+xml,application/xml;q=0.9 ... |
 | accept-encoding           | gzip, deflate, br                                                                                                            |
 | accept-language           | en-US,en;q=0.9,tr;q=0.8                                                                                                      |
 | authorization             | Basic dHJhZWZpazpBYmMxmowl                                                                                                   |
