@@ -115,11 +115,11 @@
 | content-type                | application/json; charset=utf-8                                                         |
 | date                        | Tue, 18 Aug 2020 22:29:10 GMT                                                           |
 | etag                        | W/"4eb8-H7z57sSwXJ3okX8Z5xag8Ebo4DY"                                                    |
-| expect-ct                   | max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct" |
+| expect-ct                   | max-age=604800, report-uri="..." |
 | function-execution-id       | c25kmnk8rcht                                                                            |
 | server                      | cloudflare                                                                              |
 | status                      | 200                                                                                     |
-| vary                        | Accept-Encoding,cookie,need-authorization, x-fh-requested-host, accept-encoding         |
+| vary                        | Accept-Encoding,cookie,need-authorization, x-fh-requested-host         |
 | x-cache                     | MISS                                                                                    |
 | x-cache-hits                | 0                                                                                       |
 | x-cloud-trace-context       | 75a3e1160a06401ce775562fc5434b94;o=1                                                    |
